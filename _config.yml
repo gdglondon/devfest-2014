@@ -42,9 +42,9 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/1tsJ_0Mx10_3FuUcHWlhr7cF6or_ODVG5sFs8c72dJXU/viewform", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/1tsJ_0Mx10_3FuUcHWlhr7cF6or_ODVG5sFs8c72dJXU/viewform", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
