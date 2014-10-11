@@ -37,3 +37,29 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "google-plus", link: "https://google.com/106690534007167016416"}
+- 
+  id: 3
+  name: "Vinita"
+  surname: "Rathi"
+  title: "Android App"
+  thumbnailUrl: VinitaKhandelwalRathi.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "linkedin", link: "https://uk.linkedin.com/in/vinitarathi"}
+    - {name: "google-plus", link: "https://google.com/110837808690467414382"}
+    - {name: "twitter", link: "https://twitter.com/VinitaKRathi"}
+- 
+  id: 4
+  name: "Eoin"
+  surname: "Bailey"
+  title: "Communications"
+  thumbnailUrl: EoinBailey.png
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "linkedin", link: "https://uk.linkedin.com/in/eoinbailey"}
+    - {name: "google-plus", link: "https://google.com/108453593045923841585"}
+    - {name: "twitter", link: "https://twitter.com/eoinbailey"}
