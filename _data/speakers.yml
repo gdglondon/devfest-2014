@@ -6,7 +6,7 @@
   title: "Cucumber Ltd. Founder"
   bio: ""
   thumbnailUrl: AslakHellesoy.jpg
-  rockstar: true
+  rockstar: false
   social:
     - {name: "github", link: "https://github.com/aslakhellesoy"}
     - {name: "twitter", link: "https://twitter.com/aslak_hellesoy"}
@@ -38,12 +38,83 @@
   id: 4
   name: "Eleanor"
   surname: "McHugh"
-  company: ""
+  company: "Games With Brains"
   title: "Go Developer"
   bio: ''
   thumbnailUrl: EleanorMcHugh.jpg
-  rockstar: true
+  rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/feyeleanor"}
     - {name: "github", link: "https://github.com/feyeleanor"}
-
+-
+  id: 5
+  name: "Umar"
+  surname: "Hansa"
+  company: "Shazam"
+  title: "Web Developer"
+  bio: ''
+  thumbnailUrl: UmarHansa.jpeg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/umaar"}
+    - {name: "github", link: "https://github.com/umaar"}
+-
+  id: 6
+  name: "Todd"
+  surname: "Motto"
+  company: "Appsbroker"
+  title: "Chrome GDE"
+  bio: ''
+  thumbnailUrl: ToddMotto.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/toddmotto"}
+    - {name: "github", link: "https://github.com/toddmotto"}
+-
+  id: 7
+  name: "Ed"
+  surname: "Hartwell-Goose"
+  company: "PA Consulting"
+  title: ""
+  bio: ''
+  thumbnailUrl: EdHartwellGoose.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/edhgoose"}
+    - {name: "github", link: "https://github.com/edhgoose"}
+-
+  id: 8
+  name: "Bruce"
+  surname: "McPherson"
+  company: "Motorola Solutions"
+  title: "GDE for Apps Script"
+  bio: ''
+  thumbnailUrl: BruceMcPherson.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+-
+  id: 9
+  name: "Martin"
+  surname: "Hawksey"
+  company: "Association for Learning Technology"
+  title: "GDE for Apps Script"
+  bio: ''
+  thumbnailUrl: MartinHawksey.jpeg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/mhawksey"}
+    - {name: "github", link: "https://github.com/mhawksey"}
+-
+  id: 10
+  name: "Marco"
+  surname: "F. Delaurenti"
+  company: "Google"
+  title: ""
+  bio: ''
+  thumbnailUrl: MarcoDelaurenti.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
