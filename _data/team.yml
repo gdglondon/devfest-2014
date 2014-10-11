@@ -2,7 +2,7 @@
   id: 0
   name: "Nawaid"
   surname: "Shamim"
-  title: "Organizer Manager"
+  title: "Organizer"
   thumbnailUrl: NawaidShamim.jpg
   team: true
   ribbon: 
@@ -16,7 +16,7 @@
   id: 1
   name: "Radek"
   surname: "Simko"
-  title: "Sponsors and Speakers Manager"
+  title: "Sponsors and Speakers"
   thumbnailUrl: RadekSimko.jpg
   team: true
   ribbon: 
