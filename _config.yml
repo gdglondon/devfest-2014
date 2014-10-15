@@ -1,14 +1,14 @@
 # Build Settings
 markdown: kramdown
 permalink: pretty
-exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
+exclude: ['app.yaml', '/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site Settings
 title: "GDG DevFest London 2014"
 email: "admin@gdg-london.com"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/devfest"
+baseurl: ""
 url: "http://www.gdg-london.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-55435734-2"

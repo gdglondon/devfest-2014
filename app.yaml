@@ -1,0 +1,23 @@
+application: copper-seeker-734
+version: 1
+runtime: python27
+api_version: 1
+threadsafe: no
+
+handlers:
+- url: /img
+  static_dir: _site/img
+
+- url: /css
+  static_dir: _site/css
+
+- url: /js
+  static_dir: _site/js
+
+- url: /(.*)/$
+  static_files: _site/\1/index.html
+  upload: _site/(.*)/index.html
+
+- url: /
+  static_files: _site/index.html
+  upload: _site/index.html
