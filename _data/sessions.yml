@@ -16,3 +16,11 @@
   speakers: [12, 13]
   language: en
   complexity: "Intermediate"
+-
+  id: 003
+  title: "Chrome DevTools: An animated journey"
+  description: "<p>An animated approach at showcasing tips and tricks of the Chrome DevTools.</p><ul><li>What are some advanced uses of the DevTools?</li><li>How to incorporate the tools into a mobile development and debugging workflow.</li><li>What features are available for a web developer, service engineer, designer or even product owner?</li></ul>"
+  subtype: presentation
+  speakers: [5]
+  language: en
+  complexity: "Intermediate"
