@@ -78,7 +78,7 @@
   title: ""
   bio: ''
   thumbnailUrl: EdHartwellGoose.png
-  rockstar: true
+  rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/edhgoose"}
     - {name: "github", link: "https://github.com/edhgoose"}
@@ -90,7 +90,7 @@
   title: "GDE for Apps Script"
   bio: ''
   thumbnailUrl: BruceMcPherson.png
-  rockstar: true
+  rockstar: false
   social:
     - {name: "twitter", link: ""}
     - {name: "github", link: ""}
@@ -118,3 +118,15 @@
   social:
     - {name: "twitter", link: ""}
     - {name: "github", link: ""}
+-
+  id: 11
+  name: "Lewis"
+  surname: "Hemens"
+  company: "Google"
+  title: "Senior Software Engineer"
+  bio: ''
+  thumbnailUrl: LewisHemens.png
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "http://uk.linkedin.com/pub/lewis-hemens/37/10/251"}
+    - {name: "github", link: "https://github.com/lewish"}
