@@ -24,3 +24,11 @@
   speakers: [5]
   language: en
   complexity: "Intermediate"
+-
+  id: 004
+  title: "Introduction to BDD and Cucumber"
+  description: "<p>Behaviour Driven Development practices and principles are often poorly understood. Tools like Cucumber are therefore often misused.</p><p>Aslak Hellesøy will give you an introduction to both, the way they are intended to be used.</p>"
+  subtype: presentation
+  speakers: [1]
+  language: en
+  complexity: "Intermediate"
