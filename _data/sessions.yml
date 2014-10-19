@@ -1,15 +1,36 @@
 -
   id: 000
-  title: "Coffee Break"
+  title: "Registration / Breakfast"
   place: "Hall"
   service: true
 -
   id: 001
+  title: "Keynote"
+  place: "Hall"
+  service: true
+
+-
+  id: 002
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+-
+  id: 004
   title: "Lunch Break"
   place: "Dining room"
   service: true
 -
-  id: 002
+  id: 005
+  title: "Dinner"
+  place: "Dining room"
+  service: true
+-
+  id: 999
+  title: "Available Slot"
+  place: "Unknown"
+  service: true
+-
+  id: 006
   title: "Scaling clusters declaratively with Kubernetes and Docker"
   description: "<p>We’ve all written an application from scratch before. You start with some code on your laptop and tell a server to run it. You make tweaks, update manually, and realize that you’ve committed yourself to a very imperative process. It’s manual. Inefficient. What’s worse, it’s completely unreproducible.</p><p>So then you might turn to Docker, which solves the process-level reproducibility by packaging up a full execution environment. But once we get beyond a single machine, we need to coordinate the work across a cluster of machines -- trying to do it imperatively can quickly turn into a tangled mess! You want to declare to your cluster what you expect it to do, and have the cluster assign the resources to get it done, recover from failures, and scale easily.</p><p>Kubernetes is a recently open sourced cluster manager and scheduler that simplifies the complex tasks of deploying and managing your application. You simply declare the desired state, and Kubernetes does the work to keep it that way. In this talk, we’ll do a hands-on demonstration of how you can move from a single Docker container to many containers running across a cluster of machines by using Kubernetes.</p>"
   subtype: presentation
@@ -17,7 +38,7 @@
   language: en
   complexity: "Intermediate"
 -
-  id: 003
+  id: 007
   title: "Chrome DevTools: An animated journey"
   description: "<p>An animated approach at showcasing tips and tricks of the Chrome DevTools.</p><ul><li>What are some advanced uses of the DevTools?</li><li>How to incorporate the tools into a mobile development and debugging workflow.</li><li>What features are available for a web developer, service engineer, designer or even product owner?</li></ul>"
   subtype: presentation
@@ -25,7 +46,7 @@
   language: en
   complexity: "Intermediate"
 -
-  id: 004
+  id: 008
   title: "Introduction to BDD and Cucumber"
   description: "<p>Behaviour Driven Development practices and principles are often poorly understood. Tools like Cucumber are therefore often misused.</p><p>Aslak Hellesøy will give you an introduction to both, the way they are intended to be used.</p>"
   subtype: presentation
