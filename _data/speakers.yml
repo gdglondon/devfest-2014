@@ -83,6 +83,8 @@
   social:
     - {name: "twitter", link: "https://twitter.com/toddmotto"}
     - {name: "github", link: "https://github.com/toddmotto"}
+    - {name: "linkedin", link: "http://uk.linkedin.com/in/toddmotto"}
+    - {name: "google-plus", link: "https://plus.google.com/+ToddMotto"}
 -
   id: 7
   name: "Ed"
