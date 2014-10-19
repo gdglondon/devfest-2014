@@ -154,6 +154,8 @@
   social:
     - {name: "linkedin", link: "http://uk.linkedin.com/pub/lewis-hemens/37/10/251"}
     - {name: "github", link: "https://github.com/lewish"}
+    - {name: "google-plus", link: "https://plus.google.com/+LewisHemens"}
+    - {name: "site", link: "http://asciiflow.com/"}
 -
   id: 12
   name: "Brian"
