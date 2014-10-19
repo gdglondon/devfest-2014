@@ -55,6 +55,8 @@
   social:
     - {name: "twitter", link: "https://twitter.com/feyeleanor"}
     - {name: "github", link: "https://github.com/feyeleanor"}
+    - {name: "google-plus", link: "https://plus.google.com/+EleanorMcHugh"}
+    - {name: "linkedin", link: "http://uk.linkedin.com/in/eleanormchugh"}
 -
   id: 5
   name: "Umar"
