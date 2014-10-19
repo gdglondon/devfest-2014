@@ -109,8 +109,10 @@
   thumbnailUrl: BruceMcPherson.png
   rockstar: false
   social:
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
+    - {name: "twitter", link: "https://twitter.com/brucemcpherson"}
+    - {name: "github", link: "https://github.com/brucemcpherson"}
+    - {name: "linkedin", link: "http://uk.linkedin.com/in/brucemcpherson"}
+    - {name: "google-plus", link: "https://plus.google.com/+BruceMcpherson"}
 -
   id: 9
   name: "Martin"
