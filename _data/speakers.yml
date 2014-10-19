@@ -87,8 +87,8 @@
     - {name: "google-plus", link: "https://plus.google.com/+ToddMotto"}
 -
   id: 7
-  name: "Ed"
-  surname: "Hartwell-Goose"
+  name: "Edward"
+  surname: "Hartwell Goose"
   company: "PA Consulting"
   title: ""
   bio: ''
@@ -97,6 +97,8 @@
   social:
     - {name: "twitter", link: "https://twitter.com/edhgoose"}
     - {name: "github", link: "https://github.com/edhgoose"}
+    - {name: "google-plus", link: "https://plus.google.com/+EdwardHartwellGoose"}
+    - {name: "linkedin", link: "http://uk.linkedin.com/in/edhartwellgoose"}
 -
   id: 8
   name: "Bruce"
