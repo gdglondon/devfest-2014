@@ -2,14 +2,17 @@
   id: 1
   name: "Aslak"
   surname: "Hellesøy"
-  company: "Cucumber"
-  title: "Cucumber Ltd. Founder"
-  bio: ""
+  company: "Cucumber Ltd."
+  title: "Founder"
+  bio: "<p>Aslak Hellesøy has been involved in the BDD community since the start in 2004, and is the creator of the world's most popular BDD tool.</p><p>He is also the founder of Cucumber Limited, a company offering BDD training and consulting, and Cucumber Pro - a collaboration platform for Cucumber.</p>"
   thumbnailUrl: AslakHellesoy.jpg
   rockstar: false
   social:
     - {name: "github", link: "https://github.com/aslakhellesoy"}
     - {name: "twitter", link: "https://twitter.com/aslak_hellesoy"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/aslak"}
+    - {name: "google-plus", link: "https://plus.google.com/101281619794459715291"}
+    - {name: "site", link: "http://aslakhellesoy.com"}
 -
   id: 2
   name: "James"
@@ -22,11 +25,14 @@
   social:
     - {name: "twitter", link: "https://twitter.com/weavejester"}
     - {name: "github", link: "https://github.com/weavejester"}
+    - {name: "linkedin", link: "http://uk.linkedin.com/pub/james-reeves/4b/288/778"}
+    - {name: "google-plus", link: "https://plus.google.com/115418334576159525813"}
+    - {name: "site", link: "http://www.booleanknot.com"}
 -
   id: 3
   name: "Lucas"
   surname: "Rocha"
-  company: "Mozilla"
+  company: "Mozilla Corporation"
   title: "Android & Firefox Developer"
   bio: ''
   thumbnailUrl: LucasRocha.jpeg
@@ -34,6 +40,9 @@
   social:
     - {name: "twitter", link: "https://twitter.com/lucasratmundo"}
     - {name: "github", link: "https://github.com/lucasr"}
+    - {name: "linkedin", link: "http://uk.linkedin.com/in/lucasr"}
+    - {name: "google-plus", link: "https://plus.google.com/+LucasRocha"}
+    - {name: "site", link: "http://lucasr.org"}
 -
   id: 4
   name: "Eleanor"
@@ -46,11 +55,13 @@
   social:
     - {name: "twitter", link: "https://twitter.com/feyeleanor"}
     - {name: "github", link: "https://github.com/feyeleanor"}
+    - {name: "google-plus", link: "https://plus.google.com/+EleanorMcHugh"}
+    - {name: "linkedin", link: "http://uk.linkedin.com/in/eleanormchugh"}
 -
   id: 5
   name: "Umar"
   surname: "Hansa"
-  company: "Shazam"
+  company: "Shazam Entertainment"
   title: "Web Developer"
   bio: ''
   thumbnailUrl: UmarHansa.jpeg
@@ -58,6 +69,8 @@
   social:
     - {name: "twitter", link: "https://twitter.com/umaar"}
     - {name: "github", link: "https://github.com/umaar"}
+    - {name: "google-plus", link: "https://plus.google.com/+UmarHansa"}
+    - {name: "linkedin", link: "http://uk.linkedin.com/in/umaar"}
 -
   id: 6
   name: "Todd"
@@ -70,18 +83,22 @@
   social:
     - {name: "twitter", link: "https://twitter.com/toddmotto"}
     - {name: "github", link: "https://github.com/toddmotto"}
+    - {name: "linkedin", link: "http://uk.linkedin.com/in/toddmotto"}
+    - {name: "google-plus", link: "https://plus.google.com/+ToddMotto"}
 -
   id: 7
-  name: "Ed"
-  surname: "Hartwell-Goose"
+  name: "Edward"
+  surname: "Hartwell Goose"
   company: "PA Consulting"
   title: ""
   bio: ''
   thumbnailUrl: EdHartwellGoose.png
-  rockstar: true
+  rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/edhgoose"}
     - {name: "github", link: "https://github.com/edhgoose"}
+    - {name: "google-plus", link: "https://plus.google.com/+EdwardHartwellGoose"}
+    - {name: "linkedin", link: "http://uk.linkedin.com/in/edhartwellgoose"}
 -
   id: 8
   name: "Bruce"
@@ -90,7 +107,7 @@
   title: "GDE for Apps Script"
   bio: ''
   thumbnailUrl: BruceMcPherson.png
-  rockstar: true
+  rockstar: false
   social:
     - {name: "twitter", link: ""}
     - {name: "github", link: ""}
@@ -118,3 +135,40 @@
   social:
     - {name: "twitter", link: ""}
     - {name: "github", link: ""}
+-
+  id: 11
+  name: "Lewis"
+  surname: "Hemens"
+  company: "Google"
+  title: "Senior Software Engineer"
+  bio: ''
+  thumbnailUrl: LewisHemens.png
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "http://uk.linkedin.com/pub/lewis-hemens/37/10/251"}
+    - {name: "github", link: "https://github.com/lewish"}
+-
+  id: 12
+  name: "Brian"
+  surname: "Dorsey"
+  company: "Google"
+  title: "Developer Advocate"
+  bio: ''
+  thumbnailUrl: BrianDorsey.jpeg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "http://www.linkedin.com/in/briandorsey"}
+    - {name: "github", link: "https://github.com/briandorsey"}
+-
+  id: 13
+  name: "Alex"
+  surname: "Vaghin"
+  company: "Google"
+  title: "Developer Platform Engineer"
+  bio: ''
+  thumbnailUrl: AlexVaghin.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/crhym3"}
+    - {name: "twitter", link: "https://twitter.com/crhym3"}
+    - {name: "github", link: "https://github.com/crhym3"}
