@@ -125,6 +125,8 @@
   social:
     - {name: "twitter", link: "https://twitter.com/mhawksey"}
     - {name: "github", link: "https://github.com/mhawksey"}
+    - {name: "linkedin", link: "http://uk.linkedin.com/in/mhawksey"}
+    - {name: "google-plus", link: "https://plus.google.com/+MartinHawksey"}
 -
   id: 10
   name: "Marco"
@@ -135,8 +137,11 @@
   thumbnailUrl: MarcoDelaurenti.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
+    - {name: "twitter", link: "https://twitter.com/hiraedd"}
+    - {name: "github", link: "https://github.com/hiraedd"}
+    - {name: "linkedin", link: "http://uk.linkedin.com/in/marcodelaurenti"}
+    - {name: "google-plus", link: "https://plus.google.com/+MarcoFDelaurenti"}
+    - {name: "site", link: "http://about.me/hiraedd"}
 -
   id: 11
   name: "Lewis"
