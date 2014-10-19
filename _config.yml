@@ -1,7 +1,7 @@
 # Build Settings
 markdown: kramdown
 permalink: pretty
-exclude: ['app.yaml', '/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
+exclude: ['app.yaml', 'blog.html', 'hackathon.html', 'logistics.html', '/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site Settings
