@@ -61,7 +61,7 @@
   id: 5
   name: "Umar"
   surname: "Hansa"
-  company: "Shazam"
+  company: "Shazam Entertainment"
   title: "Web Developer"
   bio: ''
   thumbnailUrl: UmarHansa.jpeg
@@ -69,6 +69,8 @@
   social:
     - {name: "twitter", link: "https://twitter.com/umaar"}
     - {name: "github", link: "https://github.com/umaar"}
+    - {name: "google-plus", link: "https://plus.google.com/+UmarHansa"}
+    - {name: "linkedin", link: "http://uk.linkedin.com/in/umaar"}
 -
   id: 6
   name: "Todd"
