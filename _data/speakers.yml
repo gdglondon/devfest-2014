@@ -2,14 +2,17 @@
   id: 1
   name: "Aslak"
   surname: "Hellesøy"
-  company: "Cucumber"
-  title: "Cucumber Ltd. Founder"
+  company: "Cucumber Ltd."
+  title: "Founder"
   bio: "<p>Aslak Hellesøy has been involved in the BDD community since the start in 2004, and is the creator of the world's most popular BDD tool.</p><p>He is also the founder of Cucumber Limited, a company offering BDD training and consulting, and Cucumber Pro - a collaboration platform for Cucumber.</p>"
   thumbnailUrl: AslakHellesoy.jpg
   rockstar: false
   social:
     - {name: "github", link: "https://github.com/aslakhellesoy"}
     - {name: "twitter", link: "https://twitter.com/aslak_hellesoy"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/aslak"}
+    - {name: "google-plus", link: "https://plus.google.com/101281619794459715291"}
+    - {name: "site", link: "http://aslakhellesoy.com"}
 -
   id: 2
   name: "James"
