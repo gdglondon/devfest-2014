@@ -125,18 +125,23 @@
   social:
     - {name: "twitter", link: "https://twitter.com/mhawksey"}
     - {name: "github", link: "https://github.com/mhawksey"}
+    - {name: "linkedin", link: "http://uk.linkedin.com/in/mhawksey"}
+    - {name: "google-plus", link: "https://plus.google.com/+MartinHawksey"}
 -
   id: 10
   name: "Marco"
   surname: "F. Delaurenti"
   company: "Google"
-  title: ""
+  title: "Sr. DevOps Engineer"
   bio: ''
   thumbnailUrl: MarcoDelaurenti.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
+    - {name: "twitter", link: "https://twitter.com/hiraedd"}
+    - {name: "github", link: "https://github.com/hiraedd"}
+    - {name: "linkedin", link: "http://uk.linkedin.com/in/marcodelaurenti"}
+    - {name: "google-plus", link: "https://plus.google.com/+MarcoFDelaurenti"}
+    - {name: "site", link: "http://about.me/hiraedd"}
 -
   id: 11
   name: "Lewis"
@@ -149,6 +154,8 @@
   social:
     - {name: "linkedin", link: "http://uk.linkedin.com/pub/lewis-hemens/37/10/251"}
     - {name: "github", link: "https://github.com/lewish"}
+    - {name: "google-plus", link: "https://plus.google.com/+LewisHemens"}
+    - {name: "site", link: "http://asciiflow.com/"}
 -
   id: 12
   name: "Brian"
@@ -161,6 +168,9 @@
   social:
     - {name: "linkedin", link: "http://www.linkedin.com/in/briandorsey"}
     - {name: "github", link: "https://github.com/briandorsey"}
+    - {name: "twitter", link: "https://twitter.com/briandorsey"}
+    - {name: "google-plus", link: "https://plus.google.com/+BrianDorsey"}
+    - {name: "site", link: "http://briandorsey.info"}
 -
   id: 13
   name: "Alex"
@@ -174,3 +184,4 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/crhym3"}
     - {name: "twitter", link: "https://twitter.com/crhym3"}
     - {name: "github", link: "https://github.com/crhym3"}
+    - {name: "google-plus", link: "https://plus.google.com/+AlexVagin"}
