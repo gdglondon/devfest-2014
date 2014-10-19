@@ -32,7 +32,7 @@
   id: 3
   name: "Lucas"
   surname: "Rocha"
-  company: "Mozilla"
+  company: "Mozilla Corporation"
   title: "Android & Firefox Developer"
   bio: ''
   thumbnailUrl: LucasRocha.jpeg
@@ -40,6 +40,9 @@
   social:
     - {name: "twitter", link: "https://twitter.com/lucasratmundo"}
     - {name: "github", link: "https://github.com/lucasr"}
+    - {name: "linkedin", link: "http://uk.linkedin.com/in/lucasr"}
+    - {name: "google-plus", link: "https://plus.google.com/+LucasRocha"}
+    - {name: "site", link: "http://lucasr.org"}
 -
   id: 4
   name: "Eleanor"
