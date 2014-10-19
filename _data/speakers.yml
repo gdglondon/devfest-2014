@@ -168,6 +168,9 @@
   social:
     - {name: "linkedin", link: "http://www.linkedin.com/in/briandorsey"}
     - {name: "github", link: "https://github.com/briandorsey"}
+    - {name: "twitter", link: "https://twitter.com/briandorsey"}
+    - {name: "google-plus", link: "https://plus.google.com/+BrianDorsey"}
+    - {name: "site", link: "http://briandorsey.info"}
 -
   id: 13
   name: "Alex"
