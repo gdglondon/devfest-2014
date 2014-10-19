@@ -25,6 +25,9 @@
   social:
     - {name: "twitter", link: "https://twitter.com/weavejester"}
     - {name: "github", link: "https://github.com/weavejester"}
+    - {name: "linkedin", link: "http://uk.linkedin.com/pub/james-reeves/4b/288/778"}
+    - {name: "google-plus", link: "https://plus.google.com/115418334576159525813"}
+    - {name: "site", link: "http://www.booleanknot.com"}
 -
   id: 3
   name: "Lucas"
