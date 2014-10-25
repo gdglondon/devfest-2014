@@ -77,3 +77,11 @@
   speakers: [14]
   language: en
   complexity: "Intermediate"
+-
+  id: 012
+  title: "Wildfire Platform, migrating from AWS to GCE. Automation, tools and challenges."
+  description: "<p>TBD</p>"
+  subtype: presentation
+  speakers: [10]
+  language: en
+  complexity: "Intermediate"
