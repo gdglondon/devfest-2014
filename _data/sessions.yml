@@ -69,3 +69,11 @@
   speakers: [2]
   language: en
   complexity: "Intermediate"
+-
+  id: 011
+  title: "Build test and release; solving Google-scale problems"
+  description: "<p></p>"
+  subtype: presentation
+  speakers: [14]
+  language: en
+  complexity: "Intermediate"
