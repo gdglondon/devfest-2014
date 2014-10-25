@@ -63,8 +63,8 @@
   complexity: "Intermediate"
 -
   id: 010
-  title: "An introduction to Clojure and how it uses data to avoid complexity"
-  description: "<p></p>"
+  title: "Understanding Clojure Through Data"
+  description: "<p>An introduction to Clojure and how it uses data to avoid complexity</p>"
   subtype: presentation
   speakers: [2]
   language: en
