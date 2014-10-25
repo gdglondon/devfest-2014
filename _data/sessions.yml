@@ -53,3 +53,11 @@
   speakers: [1]
   language: en
   complexity: "Intermediate"
+-
+  id: 008
+  title: "Introducing Go for the Paranoid Network Programmer"
+  description: "<p>This session is a bootcamp in writing simple Go network servers, then securing them in various ways to prevent eavesdropping. We'll start with the traditional Hello World console program and then evolve this through web, TCP/IP and UDP servers. Along the way we'll introduce Go's support for AES and RSA encryption schemes.</p>"
+  subtype: presentation
+  speakers: [4]
+  language: en
+  complexity: "Intermediate"
