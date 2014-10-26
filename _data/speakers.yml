@@ -231,9 +231,9 @@
   id: 18
   name: "Hoi"
   surname: "Lam"
-  company: ""
-  title: ""
+  company: "Google"
+  title: "Senior Developer Advocate (Wearables)"
   bio: ''
-  thumbnailUrl: none.png
+  thumbnailUrl: HoiLam.png
   rockstar: true
 
