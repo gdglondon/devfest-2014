@@ -115,8 +115,8 @@
 
 -
   id: 016
-  title: "To be confirmed"
-  description: "<p>TBD</p>"
+  title: "What's in a layout traversal on Android"
+  description: "<p>Understanding how a UI framework behaves under the hood is key if you want to push the boundaries of the platform. Layout traversals are at the heart of Android's UI toolkit. What happens behind the scenes in requestLayout() call? What kind of layout optimizations Android implements?</p><p>In this talk, we'll go through some of the key steps that the Android UI framework takes to display your UI on the screen, from a layout perspective.</p>"
   subtype: presentation
   speakers: [3]
   language: en

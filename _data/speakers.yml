@@ -33,8 +33,8 @@
   name: "Lucas"
   surname: "Rocha"
   company: "Mozilla Corporation"
-  title: "Android & Firefox Developer"
-  bio: ''
+  title: "Staff UI Engineer"
+  bio: 'UI engineer hacking on Firefox for Android at Mozilla. Creator of some cool open source libraries for Android.'
   thumbnailUrl: LucasRocha.jpeg
   rockstar: true
   social:
