@@ -70,21 +70,17 @@
   date: "2014-11-16"
   dateReadable: "November 16"
   tracks:
+    - {title: "Android", color: "#90be4e"}
     - {title: "Web", color: "#03a9f4"}
     - {title: "Cloud", color: "#e91e63"}
   timeslots:
     - {
-        startTime: "09:00",
-        endTime: "10:30",
-        sessionIds: [000]
-    }
-    - {
         startTime: "10:30",
-        endTime: "10:50",
-        sessionIds: [001]
+        endTime: "11:30",
+        sessionIds: [405]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:40",
-        sessionIds: [404, 008, 012]
+        startTime: "11:30",
+        endTime: "14:00",
+        sessionIds: [404, 404, 022]
     }

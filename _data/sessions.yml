@@ -25,8 +25,9 @@
   place: "Dining room"
   service: true
 -
-  id: 999
-  title: ""
+  id: 405
+  title: "Breakfast"
+  place: "Campus Cafe"
   service: true
 -
   id: 006
@@ -164,6 +165,15 @@
   description: "<p>TBD</p>"
   subtype: presentation
   speakers: [18]
+  language: en
+  complexity: "Intermediate"
+
+-
+  id: 022
+  title: "Kubernetes & Docker (CodeLab)"
+  description: "<p>TBD</p>"
+  subtype: workshop
+  speakers: [12, 17]
   language: en
   complexity: "Intermediate"
 
