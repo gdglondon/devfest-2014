@@ -4,4 +4,4 @@
 jekyll build
 
 # deploy to App Engine
-appcfg.py -v update .
+appcfg.py update .

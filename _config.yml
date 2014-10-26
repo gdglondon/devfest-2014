@@ -38,7 +38,7 @@ c4sponsorsUrl: "https://docs.google.com/document/d/1-pnHk0o66CyrMv9_T6rgiw1VoxKQ
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
-# - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
 bottomNavigationLinks:
@@ -187,7 +187,7 @@ directionDetailsCards:
  - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
  - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
  - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
-directionDetailsWideCards: 
+directionDetailsWideCards:
  -
   title: "Questions?"
   subCards:
@@ -198,7 +198,7 @@ directionDetailsWideCards:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   - 
+   -
     title: "Registration"
     links:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}

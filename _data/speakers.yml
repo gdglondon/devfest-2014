@@ -198,3 +198,42 @@
     - {name: "linkedin", link: "http://uk.linkedin.com/pub/alex-henderson/2/291/993"}
     - {name: "twitter", link: "https://twitter.com/trivially"}
     - {name: "google-plus", link: "https://plus.google.com/+AlexHenderson1"}
+-
+  id: 15
+  name: "Steven"
+  surname: "Gray"
+  company: ""
+  title: ""
+  bio: ''
+  thumbnailUrl: none.png
+  rockstar: true
+-
+  id: 16
+  name: "Roberto"
+  surname: "Tyley"
+  company: ""
+  title: ""
+  bio: ''
+  thumbnailUrl: none.png
+  rockstar: true
+
+-
+  id: 17
+  name: "Ed"
+  surname: "Hartwell-Goose"
+  company: ""
+  title: ""
+  bio: ''
+  thumbnailUrl: none.png
+  rockstar: true
+
+-
+  id: 18
+  name: "Hoi"
+  surname: "Lam"
+  company: ""
+  title: ""
+  bio: ''
+  thumbnailUrl: none.png
+  rockstar: true
+

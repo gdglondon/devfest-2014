@@ -26,8 +26,7 @@
   service: true
 -
   id: 999
-  title: "Available Slot"
-  place: "Unknown"
+  title: ""
   service: true
 -
   id: 006
@@ -77,6 +76,7 @@
   speakers: [14]
   language: en
   complexity: "Intermediate"
+
 -
   id: 012
   title: "Wildfire Platform, migrating from AWS to GCE. Automation, tools and challenges."
@@ -85,3 +85,85 @@
   speakers: [10]
   language: en
   complexity: "Intermediate"
+
+-
+  id: 013
+  title: "To be confirmed"
+  description: "<p>TBD</p>"
+  subtype: presentation
+  speakers: [9]
+  language: en
+  complexity: "Intermediate"
+
+-
+  id: 014
+  title: "To be confirmed"
+  description: "<p>TBD</p>"
+  subtype: presentation
+  speakers: [6]
+  language: en
+  complexity: "Intermediate"
+
+-
+  id: 015
+  title: "To be confirmed"
+  description: "<p>TBD</p>"
+  subtype: presentation
+  speakers: [8]
+  language: en
+  complexity: "Intermediate"
+
+-
+  id: 016
+  title: "To be confirmed"
+  description: "<p>TBD</p>"
+  subtype: presentation
+  speakers: [3]
+  language: en
+  complexity: "Intermediate"
+
+-
+  id: 017
+  title: "To be confirmed"
+  description: "<p>TBD</p>"
+  subtype: presentation
+  speakers: [15]
+  language: en
+  complexity: "Intermediate"
+
+-
+  id: 018
+  title: "To be confirmed"
+  description: "<p>TBD</p>"
+  subtype: presentation
+  speakers: [16]
+  language: en
+  complexity: "Intermediate"
+
+-
+  id: 019
+  title: "To be confirmed"
+  description: "<p>TBD</p>"
+  subtype: presentation
+  speakers: [17]
+  language: en
+  complexity: "Intermediate"
+
+-
+  id: 020
+  title: "To be confirmed"
+  description: "<p>TBD</p>"
+  subtype: presentation
+  speakers: [11]
+  language: en
+  complexity: "Intermediate"
+
+-
+  id: 021
+  title: "Android Wearables"
+  description: "<p>TBD</p>"
+  subtype: presentation
+  speakers: [18]
+  language: en
+  complexity: "Intermediate"
+
