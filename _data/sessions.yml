@@ -170,8 +170,8 @@
 
 -
   id: 022
-  title: "Kubernetes & Docker (CodeLab)"
-  description: "<p>TBD</p>"
+  title: "Hands-on with Kubernetes, an open source cluster scheduler for containers"
+  description: "<p>Join us for a hands-on walkthrough of deploying and managing applications using Google's Kubernetes (http://kubernetes.io). We'll deploy a simple application built with several different containers, and walk through how Kubernetes services allow containers to talk to each other over the network. Then we'll scale it up, give new versions a small percentage of traffic, and then do rolling upgrades of all containers to new versions.</p><p>Please bring a laptop with you to the workshop. If possible, please create a Google Cloud Platform (<a href="https://cloud.google.com/">https://cloud.google.com/</a>) project and install the gcloud SDK (<a href="https://cloud.google.com/sdk/">https://cloud.google.com/sdk/</a>) before the workshop.</p>"
   subtype: workshop
   speakers: [12, 17]
   language: en
