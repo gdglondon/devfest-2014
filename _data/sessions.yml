@@ -89,8 +89,8 @@
 
 -
   id: 013
-  title: "To be confirmed"
-  description: "<p>TBD</p>"
+  title: "Google Apps Script: The Authentic{ated} Playground"
+  description: "<p>With a pre authenticated cloud-based ecosystem Google Apps Script makes it possible to integrate into other Google services with a couple of lines of code. This turns Google Drive into a rich playground for custom reporting using Google Sheets as a data interface. In this session there will be a quick Google Apps Script 101 highlighting some of it’s main features and affordances. This will be followed by a demonstration of how Google Apps Script makes it easy to combine Google Analytics with other data sources such as Twitter and do many more playful things.</p>"
   subtype: presentation
   speakers: [9]
   language: en
@@ -107,8 +107,8 @@
 
 -
   id: 015
-  title: "To be confirmed"
-  description: "<p>TBD</p>"
+  title: "Instrumentation with Analytics"
+  description: "<p>This session is covers some advanced uses of Google Analytics through the Google Apps Script service which is part of Google Drive. As part of this both data connection and collection using Google Apps Script will be explored. The session will demonstrates how Apps Script can be used to generate simple web services for the display of custom reporting in other websites including Google Sites. As part of this we take a look at how the Google Analytics Measurement Protocol and how it can be interfaced with Apps Script to provide insight into anything that can send POST including your script projects, Drive services like Sheets, Forms and Docs or even a baby monitor.</p>"
   subtype: presentation
   speakers: [8]
   language: en
@@ -143,7 +143,7 @@
 
 -
   id: 019
-  title: "To be confirmed"
+  title: "Rock it, Roll it, Race it: Building games for Chrome with Google Cloud Platform"
   description: "<p>TBD</p>"
   subtype: presentation
   speakers: [7]

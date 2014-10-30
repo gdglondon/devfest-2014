@@ -105,7 +105,7 @@
   surname: "McPherson"
   company: "Motorola Solutions"
   title: "GDE for Apps Script"
-  bio: ''
+  bio: 'Bruce has held CIO, Chief Architect and various other roles within a number of Telecom and Hi Tech manufacturing companies. He authors a number of sites and blogs with an emphasis on integration with and migration to cloud based services -  in particular Google APIS.'
   thumbnailUrl: BruceMcPherson.png
   rockstar: false
   social:
@@ -119,7 +119,7 @@
   surname: "Hawksey"
   company: "Association for Learning Technology"
   title: "GDE for Apps Script"
-  bio: ''
+  bio: 'Martin has held advisory roles within the UK educational technology sector for a number of government funded services and is currently CIO for a UK based charity the Association for Learning Technology. In his roles he has supported staff in the exploration and adoption of innovative approaches to teaching and learning. Martin was an early adopter of Google Apps Script and this tool regularly features in the solutions he publishes which often integrate with other Google products such as Google Maps, Google Charts and Google Analytics.'
   thumbnailUrl: MartinHawksey.jpeg
   rockstar: true
   social:
