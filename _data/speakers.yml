@@ -202,20 +202,30 @@
   id: 15
   name: "Steven"
   surname: "Gray"
-  company: ""
-  title: ""
+  company: "University College London"
+  title: "Software Researcher"
   bio: ''
-  thumbnailUrl: none.png
+  thumbnailUrl: StevenGray.jpeg
   rockstar: true
+  social:
+    - {name: "linkedin", link: "http://uk.linkedin.com/in/stevenjamesgray"}
+    - {name: "twitter", link: "https://twitter.com/frogo"}
+    - {name: "github", link: "https://github.com/sjg"}
+    - {name: "google-plus", link: "https://plus.google.com//+StevenGray"}
 -
   id: 16
   name: "Roberto"
   surname: "Tyley"
-  company: ""
-  title: ""
+  company: "The Guardian"
+  title: "Software Developer"
   bio: ''
-  thumbnailUrl: none.png
+  thumbnailUrl: RobertoTyley.jpeg
   rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/robertotyley"}
+    - {name: "twitter", link: "https://twitter.com/rtyley"}
+    - {name: "github", link: "https://github.com/rtyley"}
+    - {name: "google-plus", link: "https://plus.google.com/+RobertoTyley"}
 
 -
   id: 17
@@ -236,4 +246,9 @@
   bio: ''
   thumbnailUrl: HoiLam.png
   rockstar: true
+  social:
+    - {name: "linkedin", link: "http://uk.linkedin.com/in/hoilam"}
+    - {name: "twitter", link: "https://twitter.com/hcl21"}
+    - {name: "github", link: "https://github.com/hcl21"}
+    - {name: "google-plus", link: "https://plus.google.com/+HoiLam"}
 
