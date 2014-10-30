@@ -152,8 +152,8 @@
 
 -
   id: 020
-  title: "To be confirmed"
-  description: "<p>TBD</p>"
+  title: "A very brief introduction to data processing @ Google"
+  description: "<p>An overview of data processing at Google - A walk-through of the tools we use to quickly process large amounts of data, the problems we face and how we solve them, monitoring, releasing, storage technology and most importantly what tools are available for those who want to do such processing in their own work. We'll take you through some examples of the projects and pipelines that we run as well as some of the actual code and introductions to the tools and technologies that make all of this possible.</p>"
   subtype: presentation
   speakers: [11]
   language: en
