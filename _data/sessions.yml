@@ -80,8 +80,8 @@
 
 -
   id: 012
-  title: "Wildfire Platform, migrating from AWS to GCE. Automation, tools and challenges."
-  description: "<p>TBD</p>"
+  title: "Wildfire Platform, migrating from AWS to GCE. Automation, tools and challenges"
+  description: "<p>Wildifire was acquired by Google in 2012 and was a (mostly) Ruby on Rails shop, using Amazon AWS as infrastructure. Our team was in charge of managing and scaling the infrastructure using mainly Chef. This a short recap of the journey of migrating our whole infrastructure from Amazon AWS to Google Compute Engine, tools we used, the challenges we faced and a few lessons eventually learned.</p>"
   subtype: presentation
   speakers: [10]
   language: en
