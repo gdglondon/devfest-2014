@@ -38,7 +38,7 @@ c4sponsorsUrl: "https://docs.google.com/document/d/1-pnHk0o66CyrMv9_T6rgiw1VoxKQ
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
 bottomNavigationLinks:
