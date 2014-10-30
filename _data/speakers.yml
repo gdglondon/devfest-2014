@@ -252,3 +252,17 @@
     - {name: "github", link: "https://github.com/hcl21"}
     - {name: "google-plus", link: "https://plus.google.com/+HoiLam"}
 
+-
+  id: 19
+  name: "Adam"
+  surname: "Alton"
+  company: "Potato"
+  title: "Senior Developer"
+  bio: ''
+  thumbnailUrl: AdamAlton.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/adamalton"}
+    - {name: "twitter", link: "https://twitter.com/altonpowers"}
+    - {name: "github", link: "https://github.com/adamalton"}
+    - {name: "google-plus", link: "https://plus.google.com/+AdamAlton"}

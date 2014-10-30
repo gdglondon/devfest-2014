@@ -177,3 +177,20 @@
   language: en
   complexity: "Intermediate"
 
+-
+  id: 023
+  title: "To be confirmed"
+  description: "<p>TBD</p>"
+  subtype: presentation
+  speakers: [19]
+  language: en
+  complexity: "Intermediate"
+
+-
+  id: 024
+  title: "To be confirmed"
+  description: "<p>TBD</p>"
+  subtype: workshop
+  speakers: [19]
+  language: en
+  complexity: "Intermediate"

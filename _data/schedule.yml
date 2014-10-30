@@ -62,7 +62,12 @@
         sessionIds: [021, 404, 011]
     }
     - {
-        startTime: "18:20",
+        startTime: "18:25",
+        endTime: "19:05",
+        sessionIds: [404, 023, 404]
+    }
+    - {
+        startTime: "19:05",
         endTime: "20:00",
         sessionIds: [005]
     }
@@ -83,4 +88,9 @@
         startTime: "11:30",
         endTime: "14:00",
         sessionIds: [404, 404, 022]
+    }
+    - {
+        startTime: "15:00",
+        endTime: "18:00",
+        sessionIds: [404, 024, 404]
     }
