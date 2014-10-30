@@ -194,3 +194,12 @@
   speakers: [19]
   language: en
   complexity: "Intermediate"
+
+-
+  id: 025
+  title: "FailTalks"
+  description: "<p>TBD</p>"
+  subtype: presentation
+  speakers: []
+  language: en
+  complexity: "Intermediate"
