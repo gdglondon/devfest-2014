@@ -161,8 +161,8 @@
 
 -
   id: 021
-  title: "Android Wearables"
-  description: "<p>TBD</p>"
+  title: "Introduction to Google Glass and Android Wear"
+  description: "<p>We will run through design and development options for the Google wearables platform. This talk will cover both Google Glass and Android Wear.</p>"
   subtype: presentation
   speakers: [18]
   language: en
