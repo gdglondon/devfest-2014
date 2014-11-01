@@ -134,8 +134,8 @@
 
 -
   id: 018
-  title: "To be confirmed"
-  description: "<p>TBD</p>"
+  title: "Intro to Scala"
+  description: "<p>Scala isn't used or supported by Google to any great extent - but it doesn't need to be. Scala is a language that sits upon the JVM, and anywhere you can use Java, you can employ Scala instead. This talk will cover why you might want to, and introduce you to Scala - a modular functional language that scales well from prototyping to fully-fledged production systems. At the Guardian we found that Scala enabled us to deliver things faster with less code - and have more fun while we doing it.</p>"
   subtype: presentation
   speakers: [16]
   language: en

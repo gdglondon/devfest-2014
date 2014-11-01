@@ -218,7 +218,7 @@
   surname: "Tyley"
   company: "The Guardian"
   title: "Software Developer"
-  bio: ''
+  bio: "Roberto is a a software developer at The Guardian, Technical Lead on the Guardian Membership project, and creator of the <a href=\"http://rtyley.github.io/bfg-repo-cleaner/\">BFG</a>, <a href=\"http://www.theguardian.com/info/developer-blog/2014/apr/11/how-the-guardian-uses-github-to-audit-github\">gu-who</a>, and several other open-source projects. He's worked at GitHub, 'invented' animated diffs, and loves explaining things. Still learning Scala. Sometimes he can palpably feel it forcing him to write better code, and he likes that feeling."
   thumbnailUrl: RobertoTyley.jpeg
   rockstar: true
   social:
