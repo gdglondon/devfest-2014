@@ -197,8 +197,8 @@
 
 -
   id: 025
-  title: "FailTalks"
-  description: "<p>TBD</p>"
+  title: "Lighting Talks"
+  description: "<p>Community talks given by attendees, each 5 mins max, technology focused, no sales pitches or anything like that. ;)</p>"
   subtype: presentation
   speakers: []
   language: en
