@@ -179,8 +179,8 @@
 
 -
   id: 023
-  title: "To be confirmed"
-  description: "<p>TBD</p>"
+  title: "Django on App Engine: Vanilla Django now scaling on Google's infrastructure"
+  description: "<p>The Django is a great Python web framework, used by the likes of Instagram, Mozilla, Disqus and NASA, and it has been available on Google's highly scalable App Engine since 2008.  Until now Django on App Engine has been slightly limited by the database options and lack of support for recent versions.  This has all changed.</p><p>With the new Djangae (jan-gee) library, you can now run the latest version of vanilla Django on App Engine, with the Django ORM connecting to the App Engine's non-relational Datastore, or to Google's Cloud-hosted MySQL, or both.  (The previously-used Django-nonrel fork is no longer needed.)</p><p>With over 4 years of App Engine experience and 5 years of Django expertise, Adam Alton shows you how these 2 technologies are now in seamless harmony, allowing your Django applications to scale to the next level.</p>"
   subtype: presentation
   speakers: [19]
   language: en
@@ -188,8 +188,8 @@
 
 -
   id: 024
-  title: "To be confirmed"
-  description: "<p>TBD</p>"
+  title: "Porting a Django application to Google App Engine"
+  description: "<p>This hands on workshop gives you the opportunity to bring an existing Django application and port it to run on Google App Engine, under the expert guidance of Adam Alton from Potato London.</p><p>Adam will provide a step-by-step approach to setting up your application, as well as giving hands on assistance with getting your project up and running.</p><p>You should bring a laptop with the App Engine SDK installed, and a simple Django project which you would like to run on Google App Engine.  The simpler the Django project the better; there is a huge amount to learn in getting a project set up on App Engine, so the simpler your application is the better your chance of completing the port within the workshop time.  In particular, applications which have long-running processes, do a lot of JOIN queries (especially M2M relationships), or use the filesystem for storage will require considerably more refactoring and are best avoided if possible.</p><p>Please set up a new App Engine application at <a href=\"https://appengine.google.com/\">https://appengine.google.com/</a> prior to the workshop.</p><p>Recommended reading:</p><ul><li>Eventual consistency: <a href=\"https://cloud.google.com/developers/articles/balancing-strong-and-eventual-consistency-with-google-cloud-datastore/\">https://cloud.google.com/developers/articles/balancing-strong-and-eventual-consistency-with-google-cloud-datastore/</a></li><li>App Engine documentation (although note that we will not be using the <code>webapp2</code> framework): <a href=\"https://cloud.google.com/appengine/docs/python/\">https://cloud.google.com/appengine/docs/python/</a></li></ul>"
   subtype: workshop
   speakers: [19]
   language: en

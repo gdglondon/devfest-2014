@@ -258,7 +258,7 @@
   surname: "Alton"
   company: "Potato"
   title: "Senior Developer"
-  bio: ''
+  bio: 'Adam is a senior developer at Potato London, with over 4 years of App Engine experience and 5 years of Django expertise, including working on many projects for Google.'
   thumbnailUrl: AdamAlton.jpg
   rockstar: true
   social:
