@@ -144,7 +144,7 @@
 -
   id: 019
   title: "Rock it, Roll it, Race it: Building games for Chrome with Google Cloud Platform"
-  description: "<p>TBD</p>"
+  description: "<p>Over the last two years, PA Consulting have helped Google build compelling and exciting Chrome Experiments, include <a href=\"http://www.jamwithchrome.com/\">Jam with Chrome</a> and <a href=\"http://g.co/racer\">Racer</a>. These experiments were showcased to the world from the Google homepage, global media coverage and, in the case of Racer, featured in the Google I/O 2013 Keynote.</p><p>In this talk we’ll look at the architecture for these games, how we made them scale, the power of the Google Cloud Platform (with a little bit of Go too!) and the challenges we faced.</p>"
   subtype: presentation
   speakers: [7]
   language: en
