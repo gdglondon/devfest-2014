@@ -98,8 +98,8 @@
 
 -
   id: 014
-  title: "To be confirmed"
-  description: "<p>TBD</p>"
+  title: "AngularJS: The Bridge Between Today and Tomorrow's Web"
+  description: "<p>Browsers are exciting. JavaScript libraries make them even more exciting. We’ll see what’s in store for the future of the web and how AngularJS is making huge strides to bringing it to us today.</p><p>Angular pushes the limits of what’s possible in current and emerging technologies, exploring upcoming and recently landed APIs with regular new releases. This rapid releases cycle encourages developers to push the web forward, increasingly making Angular the framework of choice for client-side MVW engineering.</p><p>We’ll look at ES6, two way data-binding, upcoming Web Components, including ShadomDOM, Custom Elements, differences from Polymer, and how Angular fits in the picture.</p>"
   subtype: presentation
   speakers: [6]
   language: en
