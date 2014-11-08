@@ -191,8 +191,8 @@
   surname: "Henderson"
   company: "Google"
   title: "Software Engineer"
-  bio: ''
-  thumbnailUrl: AlexHenderson.png
+  bio: 'Alex joined Google in 2009, and currently works on automation and infrastructure within the AdSense frontend engineering team.'
+  thumbnailUrl: AlexHenderson.jpg
   rockstar: true
   social:
     - {name: "linkedin", link: "http://uk.linkedin.com/pub/alex-henderson/2/291/993"}

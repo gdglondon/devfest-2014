@@ -72,7 +72,7 @@
 -
   id: 011
   title: "Build test and release; solving Google-scale problems"
-  description: "<p></p>"
+  description: "<p>Every development house has to figure out how to set up their development environment, and everyone’s setup is different. This talk will describe some of the decisions that Google made and the consequent machinery they have developed for their own use.</p>"
   subtype: presentation
   speakers: [14]
   language: en
