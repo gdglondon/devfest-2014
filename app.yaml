@@ -14,6 +14,10 @@ handlers:
 - url: /js
   static_dir: _site/js
 
+- url: /data.json
+  static_files: data.json
+  upload: data.json
+
 - url: /(.*)/$
   static_files: _site/\1/index.html
   upload: _site/(.*)/index.html
