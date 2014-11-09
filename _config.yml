@@ -44,7 +44,9 @@ navigationLinks:
 bottomNavigationLinks:
  - {link: "https://docs.google.com/forms/d/1tsJ_0Mx10_3FuUcHWlhr7cF6or_ODVG5sFs8c72dJXU/viewform", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/1tsJ_0Mx10_3FuUcHWlhr7cF6or_ODVG5sFs8c72dJXU/viewform", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/1frn7XjNVzf6O_KRLvfWalzeZN-5D2KxzoU7poyibdKs/viewform", text: "Register for Day 2"}
+ - {link: "http://www.eventbrite.co.uk/e/devfest-london-2014-registration-13372023081?aff=devfestwebsite", text: "Register for Day 1"}
+
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -54,7 +56,8 @@ typeoutTextValues: '"", "talks", "fun", "workshops", "Googlines"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://docs.google.com/forms/d/1tsJ_0Mx10_3FuUcHWlhr7cF6or_ODVG5sFs8c72dJXU/viewform", text: "Become a speaker"}
- - {link: "http://www.eventbrite.co.uk/e/devfest-london-2014-registration-13372023081?aff=devfestwebsite", text: "Register"}
+ - {link: "http://www.eventbrite.co.uk/e/devfest-london-2014-registration-13372023081?aff=devfestwebsite", text: "Register for Day 1"}
+ - {link: "https://docs.google.com/forms/d/1frn7XjNVzf6O_KRLvfWalzeZN-5D2KxzoU7poyibdKs/viewform", text: "Register for Day 2"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
