@@ -204,8 +204,8 @@
   surname: "Gray"
   company: "University College London"
   title: "Software Researcher"
-  bio: ''
-  thumbnailUrl: StevenGray.jpeg
+  bio: 'Steve has been a spatial software developer for the past 5 years, making visualising complex datasets on maps easier. With over 10 years of professional software development under his belt he has built multiple award winning systems and his work has been featured in various worldwide media outlets (CNN, BBC, etc). In recent years he has specialised on building mobile applications (mainly iOS) and systems that open up the world of data visualisation, mining and analysis to the masses. He can sometimes be found on StackOverflow answering questions about Google Maps API and the iOS SDK. In addition to this he also gives lectures and workshops to academics and industry partners on using Google Docs and Fusion Tables to create compelling visualisations to showcase on Google Maps and Google Earth. His current research focuses on distributed high performance computing and analysing large datasets in real-time (while mapping the results!). In his spare time you will find him walking long distances, climbing mountains, composing music or playing the piano or trumpet.'
+  thumbnailUrl: StevenGray.jpg
   rockstar: true
   social:
     - {name: "linkedin", link: "http://uk.linkedin.com/in/stevenjamesgray"}

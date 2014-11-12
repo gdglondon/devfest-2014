@@ -125,8 +125,8 @@
 
 -
   id: 017
-  title: "To be confirmed"
-  description: "<p>TBD</p>"
+  title: "Not just a red pin anymore. Mapping large datasets with Google Maps visualisation tools."
+  description: "<p>We all know that Google Maps can have pins showing geospatial data but what happens when your data is so big and complex that your maps becomes one giant red blob. This talk will show you how to get the most out of your data using the new data visualisation tools within Google Maps and show you how to build complex but visually stunning maps for the web.  We will showcase the best, and worst, Google Maps based infographics out there and how you can use Google Maps to really make your data sing.</p>"
   subtype: presentation
   speakers: [15]
   language: en
