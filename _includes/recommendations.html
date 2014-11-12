@@ -1,6 +1,9 @@
 <!-- Begin Recommendation Section -->
 <section id="recommendation" class="recommendation">
     <div class="content-wrapper col-lg-8 col-md-2 col-md-offset-1">
+    	<div class="recommendation-content">
+    	 {{site.recommendationMessage}}
+      </div>
         {% for recommendation in site.data.recommendations %}
         <div class="recommendation-table recom-box">
          <h4 class="recommendation-table-heading">        {{recommendation.name}}     </h4>                       
