@@ -41,6 +41,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
+ - {permalink: "/recommendations/", text: "Recommendations"}
 bottomNavigationLinks:
  - {link: "https://docs.google.com/forms/d/1tsJ_0Mx10_3FuUcHWlhr7cF6or_ODVG5sFs8c72dJXU/viewform", text: "Become a speaker"}
 rightNavigationButtons:
