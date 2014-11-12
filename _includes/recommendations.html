@@ -1,0 +1,21 @@
+<!-- Begin Recommendation Section -->
+<section id="recommendation" class="recommendation">
+    <div class="content-wrapper col-lg-8 col-md-2 col-md-offset-1">
+    	<div class="recommendation-content">
+    	 {{site.recommendationMessage}}
+      </div>
+        {% for recommendation in site.data.recommendations %}
+        <div class="recommendation-table recom-box">
+         <h4 class="recommendation-table-heading">        {{recommendation.name}}     </h4>                       
+         <div class="" itemtype="http://schema.org/subEvent">                     
+           <div class="slot col-md-12 col-xs-12" data-slot-detail="Dining room">
+
+             <h6 class="slot-title" itemprop="name">{{recommendation.address}}</h6>
+             <h6 itemprop="name" class="slot-title">{{recommendation.contact}}</h6>
+             <h6 itemprop="name" class="slot-title"><a href="{{recommendation.website_link}}" target="_blank">{{recommendation.website}}</a></h6> 
+           </div>
+         </div>
+       {% endfor %}
+ </div>
+</section>
+<!-- End Recommendation Section -->

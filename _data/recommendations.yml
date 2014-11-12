@@ -1,0 +1,31 @@
+- 
+  id: 0
+  name: "The White Horse"
+  address: "2 Exchange Square, Appold Street, London, EC2M 2QA"
+  contact: "020 7377 9958"
+  website: "www.geronimo-inns.co.uk"
+  website_link: "http://www.geronimo-inns.co.uk/london-the-white-horse"
+
+- 
+  id: 1
+  name: "L`abat – Jour"
+  address: "14 City Road, London, EC1Y 2AA"
+  contact: "020 7 588 5489"
+  website: "www.labatjour.com"
+  website_link: "http://www.labatjour.com"
+
+- 
+  id: 2
+  name: "L’ANIMA CAFE"
+  address: "10 Appold Street, London, EC2A 2AP"
+  contact: "020 7422 7080"
+  website: "www.lanimacafe.co.uk/"
+  website_link: "http://lanimacafe.co.uk/"
+
+- 
+  id: 3
+  name: "City Road Sports Bar"
+  address: "23 City Road, London, EC1Y 1AG"
+  contact: ""
+  website: "www.twitter.com/No1sportbar"
+  website_link: "https://twitter.com/No1sportbar"

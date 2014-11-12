@@ -41,6 +41,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
+ - {permalink: "/recommendations/", text: "Recommendations"}
 bottomNavigationLinks:
  - {link: "https://docs.google.com/forms/d/1tsJ_0Mx10_3FuUcHWlhr7cF6or_ODVG5sFs8c72dJXU/viewform", text: "Become a speaker"}
 rightNavigationButtons:
@@ -255,3 +256,6 @@ viewOnMap: "View on Google Maps"
 hackathonPlaceCoordinates: "49.840999, 24.031144"
 hackathonMapCenterCoordinates: "49.840696, 24.028754"
 hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
+
+# Recommendations block
+recommendationMessage: "We decided to not prebook restaurants for the dinner on Saturday at the end, but here's a list of some restaurants we recommend  for you to <b> prebook for yourself </b> (simply for coordination purposes if you want to continue networking with other attendees)"
